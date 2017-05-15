@@ -1,0 +1,838 @@
+{
+    "results": {
+        "museum": [{
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_Exterior_5.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_Exterior_5.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_Exterior_5.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_Exterior_5.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_artwork_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_artwork_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_artwork_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_artwork_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_artwork_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_artwork_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_artwork_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_artwork_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_gallery_6.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_gallery_6.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_gallery_6.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_gallery_6.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_Exterior_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_Exterior_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_Exterior_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Ringling_Exterior_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003e5401 Bay Shore Road\u003cbr\u003e\nSarasota, Florida 34243\u003c/p\u003e\n\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003e\u003c/p\u003e\n",
+                "museumCity": "Sarasota, Florida",
+                "museumMapUrl": "http://goo.gl/maps/qVRIy",
+                "museumName": "John and Mable Ringling Museum of Art",
+                "museumOverview": "\u003cp\u003eIn 1911, John Ringling and his wife, Mable, purchased twenty acres of waterfront property in Sarasota, Florida. Today, their legacy welcomes visitors from around the globe with fine art, an historic mansion, two circus museums and a jewel-box of a theatre. Indeed, the John and Mable Ringling Museum of Art, Florida State University, is one of the largest museum/university complexes in the United States. The museum opened in 1931 featuring important works by Peter Paul Rubens, Anthony van Dyck, Diego Velázquez, Titian, Tintoretto, Paolo Veronese, El Greco and Thomas Gainsborough. A generous gift from noted Asian art collector and philanthropist, Dr. Helga Wall-Apelt, substantially bolstered the museum’s Asian art collection. In addition, animating the courtyard are casts of original antiquities and Renaissance sculptures, including the towering \u003ci\u003eDavid\u003c/i\u003e by Michelangelo. Special exhibitions are featured in The Ulla R. and Arthur F. Searing Wing, which opened in February 2007.\u003c/p\u003e\n\u003cp\u003e\u003cbr\u003e\n\u003c/p\u003e\n\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003e\u003c/p\u003e\n",
+                "museumPhoneNumber": "+1 941 359 5700",
+                "museumRegion": "/data/dictionaries/locationRegions/north-america",
+                "museumWebsiteUrl": "http://www.ringling.org",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_1.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_1.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_1.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_1.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Juming_exterior_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003e20842 No.2, Xishihu\u003cbr\u003e\nJinshan Dist., New Taipei City\u003cbr\u003e\nTaiwan\u003c/p\u003e\n",
+                "museumCity": "Taipei, Taiwan ",
+                "museumMapUrl": "http://goo.gl/maps/sZMKb",
+                "museumName": "Juming Museum",
+                "museumOverview": "\u003cp style\u003d\"margin: 6.5pt 0in 0pt;\" class\u003d\"englishbody\"\u003eLocated in Jin-Shan, this museum houses creations by internationally-renowned Taiwanese sculptor Ju Ming. The spacious outdoor venue, which combines art with the natural environment, exhibits Ju’s three main art series: \u003ci\u003eNativist\u003c/i\u003e, \u003ci\u003eTaichi\u003c/i\u003e and \u003ci\u003eLiving World\u003c/i\u003e. Beyond celebrating Ju’s achievements, as well as his dedication to and passion for art, this institution aims to promote the sculpture arts and children’s art education.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+886 2 28812021  ",
+                "museumRegion": "/data/dictionaries/locationRegions/asia-and-the-pacific",
+                "museumWebsiteUrl": "http://www.npm.gov.tw",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-exterior-1.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-exterior-1.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-exterior-1.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-exterior-1.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-hallway-4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-hallway-4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-hallway-4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-hallway-4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-gallery-3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-gallery-3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-gallery-3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-gallery-3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-marble-5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-marble-5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-marble-5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-marble-5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-staircase-2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-staircase-2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-staircase-2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/KMvienna-staircase-2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eMaria-Theresien-Platz\u003cbr\u003e\n1010 Vienna, Austria\u003c/p\u003e\n",
+                "museumCity": "Vienna, Austria ",
+                "museumMapUrl": "http://goo.gl/maps/ygFQq",
+                "museumName": "Kunsthistorisches Museum Wien",
+                "museumOverview": "\u003cp style\u003d\"margin: 6.5pt 0in 0pt;\" class\u003d\"englishbody\"\u003eIn early 2013, this museum reopened its famous Kunstkamme, the Chamber of Arts and Wonders, which is the most important collection of its kind in the world. Twenty newly-installed galleries invite you to experience more than 2,200 significant works of art. Among its highlights are examples of goldsmithing including the celebrated \u003ci\u003eSaliera\u003c/i\u003e by Benvenuto Cellini, outstanding sculptures such as the \u003ci\u003eKrumau Madonna\u003c/i\u003e, magnificent bronze statuettes, delicate and bizarre ivories and precious stone vessels, as well as valuable clocks, elaborate automatons, strange scientific instruments and sumptuous game boards.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+43 1 525 24 4025  ",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east",
+                "museumWebsiteUrl": "http://www.khm.at/en/",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_exterior_1.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_exterior_1.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_exterior_1.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_exterior_1.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmusuem_gallery_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmusuem_gallery_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmusuem_gallery_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmusuem_gallery_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Kunstmuseum_gallery_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eHodlerstrasse, 8-12\u003cbr\u003e\n3011 Bern\u003c/p\u003e\n\u003cp\u003e\u003cbr\u003e\n\u003c/p\u003e\n\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 11.818181991577148px;\"\u003e\u003c/p\u003e\n",
+                "museumCity": "Bern, Switzerland",
+                "museumMapUrl": "http://goo.gl/maps/8ZJHX",
+                "museumName": "Kunstmuseum Bern",
+                "museumOverview": "\u003cp style\u003d\"margin: 6.5pt 0in 0pt;\" class\u003d\"englishbody\"\u003eFamed as Switzerland’s oldest art museum, the Kunstmuseum Bern was founded in 1879. Today, this institution features an engaging exhibition programme, complemented by an extraordinary permanent collection of more than 3,000 paintings and sculptures by such masters as Claude Monet, Alberto Giacometti, Ferdinand Hodler, Pablo Picasso, Salvador Dalí and Mark Rothko, in addition to 48,000 drawings, prints, photographs and videos. The constantly growing and changing collection, comprising works of art from the Gothic era to the present day, is considered one of the most important in all of Switzerland. Additionally, the museum’s independent cinema offers visitors a diverse and often challenging array of films.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+41 31 328 09 44  ",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east",
+                "museumWebsiteUrl": "http://www.kunstmuseumbern.ch",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum Winterthur/1-3383_3aerni.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/1-3383_3aerni.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/1-3383_3aerni.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/1-3383_3aerni.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum Winterthur/2-Aussenaufn_Neubau.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/2-Aussenaufn_Neubau.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/2-Aussenaufn_Neubau.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/2-Aussenaufn_Neubau.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum Winterthur/3-rodmo.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/3-rodmo.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/3-rodmo.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/3-rodmo.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum Winterthur/4-12-02-28_022_aerni.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/4-12-02-28_022_aerni.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/4-12-02-28_022_aerni.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/4-12-02-28_022_aerni.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum Winterthur/5-12-02-28_13a_aerni.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/5-12-02-28_13a_aerni.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/5-12-02-28_13a_aerni.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Kunstmuseum%20Winterthur/5-12-02-28_13a_aerni.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eMuseumstrasse 52\u003c/p\u003e\n\u003cp\u003e8400 Winterthur, Switzerland\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                "museumCity": "Winterthur, Switzerland",
+                "museumMapUrl": "https://www.google.com/maps/place/Kunstmuseum+Winterthur/@47.501865,8.730074,17z/data\u003d!3m1!4b1!4m2!3m1!1s0x479a9982e97e715b:0xcfd1aa2fcd8cbde6",
+                "museumName": "Kunstmuseum Winterthur",
+                "museumOverview": "\u003cp\u003eThe Kunstmuseum Winterthur accommodates one of the finest collections of modern art in Switzerland, with outstanding groups of art from the late 19th century to the present. The 1915 museum building, designed by Rittemeye and Furrer, and the newer extension from 1995, designed by Gigon and Guyer, provide an exceptional ambience to display the museum’s collection.\u003c/p\u003e\n\u003cp\u003e\u003cbr\u003e\nThe 1915 building is dedicated to exhibiting French art from around the turn of the century, showcasing works by van Gogh, Monet, Bonnard, Vuillard and Vallotton, in addition to masterpieces of classical modern art by Arp, Braque, Delaunay, Gris, Klee, Léger, Magritte and Mondrian. In contrast, the newer extension houses international contemporary masterpieces from artists such as Guston, Marden, Kelly, Ryman, Richter and Arte povera.\u003cbr\u003e\n\u003cbr\u003e\nIn addition to the permanent collection, the museum holds regular monographic and thematic exhibitions from the same epoch. They are complemented by exhibitions of drawings and prints from the collection in the Graphics Cabinet.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                "museumPhoneNumber": "+41 52 267 51 62",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east/fr",
+                "museumWebsiteUrl": "http://www.kmw.ch/",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_1.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_1.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_1.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_1.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_installation_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_installation_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_installation_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_installation_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_cafe_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_cafe_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_cafe_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_cafe_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LaMaisonRouge_gallery_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003e10, Boulevard de la Bastille\u003cbr\u003e\n75012 Paris, France\u003c/p\u003e\n",
+                "museumCity": "Paris, France",
+                "museumMapUrl": "http://goo.gl/maps/DhJUm",
+                "museumName": "La Maison Rouge",
+                "museumOverview": "\u003cp style\u003d\"margin: 6.5pt 0in 0pt;\" class\u003d\"englishbody\"\u003eFounded by Antoine de Galbert, a private collector and active figure on the French art scene, La Maison Rouge promotes different facets of contemporary creation through temporary exhibitions. With more than 1,000 square metres of exhibition space near the Bastille, it gives independent artists and curators full authority to explore the diversity of contemporary artistic experimentation and expression. La Maison Rouge offers three to six exhibitions each year, with solo shows alternating with thematic ones, which are often displayed alongside major international private collections. For each exhibition, La Maison Rouge publishes a series of books in production with Fage éditions; its bookstore, managed by Bookstorming, carries all types of contemporary art publications.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+33 (0)1 40 01 08 81",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east",
+                "museumWebsiteUrl": "http://www.lamaisonrouge.org",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum Wurttemburg/Arkaden2-640x360.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden2-640x360.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden2-640x360.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden2-640x360.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum Wurttemburg/Arkaden-640x360.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden-640x360.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden-640x360.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden-640x360.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum Wurttemburg/Innenhof-Statue-640x360.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Innenhof-Statue-640x360.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Innenhof-Statue-640x360.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Innenhof-Statue-640x360.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum Wurttemburg/Arkaden-Nacht-640x360.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden-Nacht-640x360.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden-Nacht-640x360.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Arkaden-Nacht-640x360.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum Wurttemburg/Kînigreich-WÅrttemberg-Foto-Christoph-DÅpper-640x360.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Kînigreich-WÅrttemberg-Foto-Christoph-DÅpper-640x360.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Kînigreich-WÅrttemberg-Foto-Christoph-DÅpper-640x360.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Landesmuseum%20Wurttemburg/Kînigreich-WÅrttemberg-Foto-Christoph-DÅpper-640x360.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eSchillerplatz 6\u003c/p\u003e\n\u003cp\u003e70173 Stuttgart, Germany\u003c/p\u003e\n",
+                "museumCity": "Stuttgart, Germany",
+                "museumMapUrl": "http://bit.ly/1mlizqe",
+                "museumName": "Landesmuseum Württemberg",
+                "museumOverview": "\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003eThe Württemberg State Museum in Stuttgart\u0027s \u0026quot;Altes Schloss” (Old Castle) emerged from the 16th-century “Kunstkammer” (art chamber) of the dukes, later kings, of Württemberg who resided in Stuttgart. The museum’s collections cover archaeology, art history and cultural history, taking visitors on a tour through Württemberg’s past. The highlights include some of humankind\u0027s oldest art objects, including a delicate 35,000-year-old lion\u0027s head carved out of mammoth ivory, sensational grave furnishings of Celtic princes and symbols of the Kingdom of Württemberg: a crown, sceptre and the Württemberg queens\u0027 diamonds. The Württemberg State Museum also has a number of branch museums at other locations across the state.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+49 (0) 711 89535111",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east",
+                "museumWebsiteUrl": "http://www.landesmuseum-stuttgart.de/",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_exterior_1A.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_exterior_1A.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_exterior_1A.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_exterior_1A.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_interior_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_interior_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_interior_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_interior_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_gallery_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_gallery_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_gallery_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_gallery_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_stairs_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_stairs_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_stairs_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_stairs_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_gallery_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_gallery_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_gallery_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leeum_gallery_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003e747-18 Hannam-dong Yongsan-gu\u003cbr\u003e\nSeoul, South Korea 140-890\u003c/p\u003e\n",
+                "museumCity": "Seoul, South Korea",
+                "museumMapUrl": "http://goo.gl/maps/iRBLh",
+                "museumName": "Leeum Samsung Museum of Art",
+                "museumOverview": "\u003cp style\u003d\"margin: 6.5pt 0in 0pt;\" class\u003d\"englishbody\"\u003eSince opening in 2004, this museum has been passionately building an important collection of Korean and international Modern and contemporary art. It is further committed to acquiring and preserving Korean treasures of great historical value. In all, this outstanding collection comprises more than 15,000 works of art. The distinctive architecture by internationally-renowned Mario Botta, Jean Nouvel and Rem Koolhaas is in itself a remarkable artistic experience. This is a museum of new ideas that seeks to bridge East and West.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+82 (0)2 2014 6900  ",
+                "museumRegion": "/data/dictionaries/locationRegions/asia-and-the-pacific",
+                "museumWebsiteUrl": "http://www.leeum.org",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_1.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_1.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_1.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_1.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_Rodin_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_Rodin_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_Rodin_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_Rodin_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_gallery_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_gallery_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_gallery_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_gallery_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LegionofHonor_exterior_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eLincoln Park, 100 34th Avenue\u003cbr\u003e\nSan Francisco, California 94121\u003c/p\u003e\n",
+                "museumCity": "San Francisco, California",
+                "museumMapUrl": "http://goo.gl/maps/l5SLi",
+                "museumName": "Legion of Honor",
+                "museumOverview": "\u003cp style\u003d\"margin: 6.5pt 0in 0pt;\" class\u003d\"englishbody\"\u003ePrized works by canonical masters of Western civilization are woven throughout this intimate collection. The monumental Neoclassical edifice itself – a sophisticated example of 1920s elegance that was renovated to renewed splendor in 1995 – has a commanding presence on a spectacular site, with unsurpassed vistas of the Golden Gate Bridge, the city and the Pacific Ocean beyond. This museum brings to mind a time when the fine arts epitomized civilisation’s highest values: Auguste Rodin’s \u003ci\u003eThe Thinker\u003c/i\u003e\u0026nbsp;is here, as well as works by El Greco, Peter Paul Rubens, Rembrandt, Claude Monet, Fra Angelico and a generous trove of classical antiquities, in addition to noteworthy temporary shows.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+1 415 750 3600  ",
+                "museumRegion": "/data/dictionaries/locationRegions/north-america",
+                "museumWebsiteUrl": "http://www.legionofhonor.org",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_exterior_1.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_exterior_1.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_exterior_1.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_exterior_1.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "caption": "\u003cp\u003eTobias G. Natter, director of the Leopold Museum, home of the world\u0027s most comprehensive collection of Egon Schiele\u0027s work, discusses the life and work of the artist.\u003c/p\u003e\n",
+                        "imagePathMedium": "null.rend.500.500.jpg",
+                        "imagePathSmall": "null.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_gallery_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_gallery_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_gallery_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_gallery_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_interior_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_interior_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_interior_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_interior_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_art_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_art_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_art_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Leopold_art_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eMuseumsplatz 1\u003cbr\u003e\n1070 Vienna, Austria\u003c/p\u003e\n",
+                "museumCity": "Vienna, Austria",
+                "museumMapUrl": "http://goo.gl/maps/B2e1Z",
+                "museumName": "Leopold Museum",
+                "museumOverview": "\u003cp style\u003d\"margin: 6.5pt 0in 0pt;\" class\u003d\"englishbody\"\u003eThe Leopold Museum is home to one of the most important collections of Modern Austrian art in the world. The more than 5,700 works were collected by Rudolf Leopold and his wife Elisabeth over a period of five decades, and were consolidated into the Leopold Museum Private Foundation with the assistance of the Republic of Austria and the Austrian National Bank. The holdings on view, including the world’s largest Egon Schiele collection, as well as important masterpieces by Gustav Klimt, Oskar Kokoschka and Richard Gerstl, magnificently chart the gradual transformation from the Viennese Secession into Expressionism.\u003cspan style\u003d\"mso-tab-count: 1;\"\u003e \u003c/span\u003e\u003c/p\u003e\n",
+                "museumPhoneNumber": "+43 1 52 570  ",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east",
+                "museumWebsiteUrl": "http://www.leopoldmuseum.org",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exterior_1A.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exterior_1A.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exterior_1A.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exterior_1A.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_Exhibition_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_Exhibition_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_Exhibition_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_Exhibition_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_4A.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_4A.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_4A.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_4A.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Barbier_exhibition_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eRue Jean-Calvin, 10\u003cbr\u003e\n1204 Geneve-Genf, Switzerland\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                "museumCity": "Geneva, Switzerland",
+                "museumMapUrl": "http://goo.gl/maps/hSzZf",
+                "museumName": "Les Musées Barbier-Mueller",
+                "museumOverview": "\u003cp\u003eMany aficionados of the tribal arts agree that this is among the greatest collections in the world. As early as 1907, Josef Mueller shifted his focus from works of the Parisian avant-garde to the African masterpieces that inspired them. Joined with treasures of famed Swiss collector Jean Paul Barbier (Mueller’s son-in-law), the museum now features 7,000 important works from Africa, Indonesia and Oceania, as well as tribal Asia and the earliest phases of Mediterranean cultures. In addition, the presentation at this venue, which opened to the public in 1977, is truly dramatic.\u003c/p\u003e\n\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003e\u003c/p\u003e\n",
+                "museumPhoneNumber": "+41 22 312 02 70",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east",
+                "museumWebsiteUrl": "http://www.musee-barbier-mueller.org/",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang Yi/Exterior-640x360.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Exterior-640x360.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Exterior-640x360.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Exterior-640x360.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang Yi/Exterior-640x360.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Exterior-640x360.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Exterior-640x360.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Exterior-640x360.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang Yi/3rd-floor-exhibits-640x360.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/3rd-floor-exhibits-640x360.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/3rd-floor-exhibits-640x360.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/3rd-floor-exhibits-640x360.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang Yi/Details-640x360.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Details-640x360.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Details-640x360.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/Details-640x360.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang Yi/2nd-floor-exhibits-640x.60.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/2nd-floor-exhibits-640x.60.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/2nd-floor-exhibits-640x.60.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Liang%20Yi/2nd-floor-exhibits-640x.60.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003e181-199 Hollywood Road, Sheung Wan, Hong Kong\u003c/p\u003e\n",
+                "museumCity": "Hong Kong",
+                "museumMapUrl": "http://goo.gl/maps/xL7RA",
+                "museumName": "Liang Yi Museum",
+                "museumOverview": "\u003cp\u003eFounded in 2014, Liang Yi Museum is located on Hong Kong’s historic Hollywood Road. Displaying two permanent collections of classical Chinese antique furniture, as well as European vanities, this private museum is notable not only due to its large 20,000 square foot space, but also because of the world-class quality of its collections. With a mission that focuses on design, craftsmanship and heritage, Liang Yi Museum hosts monthly educational seminars (“Liang Yi Talks”), and works with local universities and art schools to actively work as an institution that fosters and encourages local, homegrown designers. The museum offers tours by appointment only, offering visitors a unique opportunity to touch and interact with the displays in an intimate and boutique environment.\u003cbr\u003e\n\u003cbr\u003e\n\u003c/p\u003e\n\u003cp\u003ePlease contact us at \u003ca href\u003d\"mailto:Preferred@sothebys.com\"\u003ePreferred@sothebys.com\u003c/a\u003e or at +8852 2822 5511 and make an appointment before visiting the museum.\u003c/p\u003e\n",
+                "museumPhoneNumber": "(852) 2806-8280",
+                "museumRegion": "/data/dictionaries/locationRegions/asia-and-the-pacific",
+                "museumWebsiteUrl": "http://www.liangyimuseum.com/en/",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Chongqing.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Chongqing.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Chongqing.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Chongqing.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Chongqing.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Chongqing.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Chongqing.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Chongqing.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eNo.9 JuXianYan Plaza, Jiangbei District, Chongqing, China\u003c/p\u003e\n",
+                "museumCity": "Chongqing, China",
+                "museumName": "Long Museum Chongqing",
+                "museumOverview": "\u003cp\u003eOccupying three floors of the Guohua Financial Centre in China\u0027s most populous city, this is the first outpost of Long Museum outside of Shanghai, the hometown of founders Liu Yiqian and Wang Wei. Positioned on the Yangtze River in the developing Jiangbeizui area, the Chongqing museum will bring \u0026nbsp;Long Museum\u0027s exceptional collection and varied programme of international art exhibitions to audiences throughout the region who may not be able to travel to Shanghai, exposing people to new concepts of art.\u003c/p\u003e\n\u003cp\u003eA fourth branch of Long Museum will open in 2018 in Wuhan.\u003c/p\u003e\n",
+                "museumPhoneNumber": "0 23 67 96 10 16",
+                "museumRegion": "/data/dictionaries/locationRegions/asia-and-the-pacific",
+                "museumWebsiteUrl": "http://thelongmuseum.org/",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_6.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_6.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_6.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_6.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Pudong_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eNo. 210, Lane 2255, Luoshan Road, Pudong New Area, Shanghai, China\u003c/p\u003e\n",
+                "museumCity": "Shanghai, China",
+                "museumMapUrl": "https://goo.gl/maps/FpxC4",
+                "museumName": "Long Museum Pudong",
+                "museumOverview": "\u003cp\u003eLocated at No. 210, Lane 2255, Luoshan Road, Pudong New Area, Shanghai, the Long Museum Pudong was officially opened to the public on Dec. 18th, 2012. With a total area of approximately 10,000 square meters, it is designed by Chinese architect Zhong Song. The building, shaped like a square and constructed chiefly of granite, has tone of grayish white which adds to the minimalist, pure and restrained style of the East.\u003c/p\u003e\n\u003cp\u003eThe main part of the Museum has four floors: the basement holds the public education area with a reading room and an academic auditorium; the first floor is mainly devoted to contemporary art of varied themes, along with other recreational facilities such as an art shop and art café; on the second floor is the permanent exhibition area for the unique “red classics,” where the panorama of the artistic creations from the Yan’an Period to the Reform and Opening Up is systematically presented; the third floor contains a permanent exhibition hall and a temporary one for traditional Chinese art, featuring calligraphy and painting, and spaces for displaying ancient Chinese artifacts and furniture.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                "museumPhoneNumber": "+86 021-68778787",
+                "museumRegion": "/data/dictionaries/locationRegions/asia-and-the-pacific",
+                "museumWebsiteUrl": "http://thelongmuseum.org/",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_2.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_2.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_2.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_2.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_1.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_1.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_1.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_1.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2014/Long_Museum_Westbund_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003e3398 Longteng Avenue, Xuhui District, Shanghai, China\u003c/p\u003e\n",
+                "museumCity": "Shanghai, China",
+                "museumName": "Long Museum Westbund",
+                "museumOverview": "\u003cp\u003eLocated at the centre of the West Bund Culture Corridor in Binjiang, Xuhui District, Shanghai, the Long Museum Westbund was designed by Liu Yichun, a Chinese architect of Atelier Deshaus, and covers an area of 33,000 square metres with up to 16,000 square meters for exhibition.\u003c/p\u003e\n\u003cp\u003eThe main part of the building is a unique umbrella-vaulted structure with four stories. The first and second floors above ground are devoted to contemporary art including paintings, sculptures, installations and new media. The surface of the peculiar vault is built by faced concrete with a fine and smooth texture, endowing the Museum with an acute quality of contemporariness and creativity. The first basement houses the permanent exhibition area for precious artefacts in ancient China and art works from the Republic of China. Resembling a “white box,” the rectangular exhibition hall highlights the historical continuance and intellectual profoundness of traditional Chinese art.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                "museumPhoneNumber": "+86 021-64227636",
+                "museumRegion": "/data/dictionaries/locationRegions/asia-and-the-pacific",
+                "museumWebsiteUrl": "http://thelongmuseum.org/",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_exterior_1.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_exterior_1.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_exterior_1.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_exterior_1.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_pavilion_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_pavilion_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_pavilion_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_pavilion_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/LACMA_gallery_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003e5905 Wilshire Boulevard\u003cbr\u003e\nLos Angeles, California 90036\u003c/p\u003e\n",
+                "museumCity": "Los Angeles, California",
+                "museumMapUrl": "http://goo.gl/maps/LvNV1",
+                "museumName": "Los Angeles County Museum of Art (LACMA)",
+                "museumOverview": "\u003cp style\u003d\"margin: 6.5pt 0in 0pt;\" class\u003d\"englishbody\"\u003eWith 100,000 objects dating from ancient times to the present, this seven-building complex on twenty acres in the heart of Los Angeles is the largest art museum in the Western United States, and certainly among the most important. The Modern art collection, housed in the Ahmanson Building, is superb, featuring works by Pablo Picasso, Paul Klee, Wassily Kandinsky, Alberto Giacometti, Constantin Brâncuşi, Henry Moore, Willem de Kooning, Joan Miró, Louise Nevelson, Archipenko and Arp. The contemporary collection, displayed in the Broad Contemporary Art Museum, boasts a great assortment of postwar art, including works by Jasper Johns, Frank Stella, John Chamberlain, Matthew Barney and Jeff Koons, among others. LACMA is also the home of \u003ci\u003eBack Seat Dodge \u002738\u003c/i\u003e,\u0026nbsp;Edward Kienholz’s 1964 sculpture depicting a couple in the back seat of a 1938 Dodge automobile. The campus is currently undergoing a ten-year expansion and renovation designed by the Renzo Piano Building Workshop.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+1 323 857 6000  ",
+                "museumRegion": "/data/dictionaries/locationRegions/north-america",
+                "museumWebsiteUrl": "http://www.lacma.org",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorsculpture_cropped.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorsculpture_cropped.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorsculpture_cropped.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorsculpture_cropped.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_Exterior_cropped.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_Exterior_cropped.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_Exterior_cropped.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_Exterior_cropped.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorsculpture_cropped.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorsculpture_cropped.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorsculpture_cropped.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorsculpture_cropped.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_giacomettinterior_cropped.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_giacomettinterior_cropped.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_giacomettinterior_cropped.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_giacomettinterior_cropped.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorwalk_cropped.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorwalk_cropped.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorwalk_cropped.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2016/Louisiana_exteriorwalk_cropped.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eGl Strandvej 13, 3050 Humlebæk, Denmark\u003c/p\u003e\n",
+                "museumCity": "Copenhagen, Denmark",
+                "museumMapUrl": "https://goo.gl/maps/12o8TFiUPnv",
+                "museumName": "Louisiana Museum",
+                "museumOverview": "\u003cp\u003eThe Louisiana Museum is a leading international museum of modern art. Located on the coast it strikes that rarest of balances between landscape, architecture and art in a unique way that attracts visitors from around the world Located 25 miles north of Copenhagen, Louisiana offers a panoramic view of Sweden across the Sound, making a visit to Louisiana breathtaking throughout the year. The museum presents six to ten special exhibitions annually and boasts a distinguished art collection comprised of over 3,500 works. Louisiana also serves as a vibrant cultural centre, open in the evening Tuesday to Friday until 22:00 and providing a rich variety of activities and events.\u003c/p\u003e\n\u003cp\u003e\u003cbr\u003e\n\u003c/p\u003e\n\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003e\u003c/p\u003e\n",
+                "museumPhoneNumber": "+45 49 19 07 19",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east",
+                "museumWebsiteUrl": "www.louisiana.dk",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Exterior_1A.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Exterior_1A.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Exterior_1A.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Exterior_1A.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/Malba_Install_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003eAvenida Figueroa Alcorta 3415\u003cbr\u003e\nBuenos Aires, Argentina\u003c/p\u003e\n",
+                "museumCity": "Buenos Aires, Argentina",
+                "museumMapUrl": "http://goo.gl/maps/srSpD",
+                "museumName": "MALBA - Fundación Costantini (Museo de Arte LatinoAmericano de Buenos Aires)",
+                "museumOverview": "\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003eThis museum is considered to be a central component of the contemporary art scene in Argentina and Latin America, as well as one of this city’s cultural icons. Founded in September 2001 by the Eduardo F Costantini Foundation, it’s a private, nonprofit institution that preserves and exhibits a collection of approximately 500 works of art by leading Modern and contemporary artists from Latin America such as Diego Rivera, Rafael Barradas and Alejandro Xul Solar. A dynamic calendar of special exhibitions appears alongside the museum’s permanent collection; film, literature and design events are also offered in conjunction with educational programmes targeted to a wide range of audiences.\u003c/p\u003e\n\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003e\u003c/p\u003e\n",
+                "museumPhoneNumber": "+54 11 4808 6500",
+                "museumRegion": "/data/dictionaries/locationRegions/latin-america",
+                "museumWebsiteUrl": "http://www.malba.org.ar",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Cecchetti_Exterior_1.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Cecchetti_Exterior_1.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Cecchetti_Exterior_1.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Cecchetti_Exterior_1.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "caption": "\u003cp\u003eMAXXI museum, courtesy of Fondazione MAXXI. Photo:\u0026nbsp;Simone Cecchetti\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Anish_Kapoor_Install_3.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Anish_Kapoor_Install_3.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Anish_Kapoor_Install_3.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Anish_Kapoor_Install_3.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "caption": "\u003cp\u003eMAXXI museum, courtesy of\u0026nbsp;Fondazione MAXXI. Photo:\u0026nbsp;Paolo Quadrini\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Bosco_Install_2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Bosco_Install_2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Bosco_Install_2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Bosco_Install_2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "caption": "\u003cp\u003eMAXXI museum, courtesy of Fondazione MAXXI. Photo:\u0026nbsp;Bernard Touillon\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Linfa_Install_4.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Linfa_Install_4.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Linfa_Install_4.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Linfa_Install_4.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "caption": "\u003cp\u003eMAXXI museum, courtesy of Fondazione MAXXI. Photo:\u0026nbsp;Simone Cecchetti\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Exterior_5.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Exterior_5.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Exterior_5.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2013/MAXXI_Exterior_5.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003eVia Guido Reni, 4\u003cbr\u003e\n00196 Rome, Italy\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n",
+                "museumCity": "Rome, Italy",
+                "museumMapUrl": "http://goo.gl/maps/gz0EU",
+                "museumName": "Maxxi-Museo Nazionale delle Arti del XXI Secolo",
+                "museumOverview": "\u003cp\u003eMAXXI is the first national institution dedicated to contemporary creativity in Italy. Managed by the Fondazione MAXXI, it holds two museums: MAXXI Architettura and MAXXI Arte. The building, designed by Zaha Hadid Architects and inaugurated in 2010, is an extraordinary example of contemporary architecture that’s celebrated for its fluid lines. A workshop for experimentation and innovation, MAXXI produces and presents exhibitions, performances, workshops and lectures. Permanent holdings include installations by Anish Kapoor, Sol Lewitt, Maurizio Mochetti, Giuseppe Penone and Massimo Grimaldi.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+39 (0)6 32 810",
+                "museumRegion": "/data/dictionaries/locationRegions/europe-and-the-middle-east",
+                "museumWebsiteUrl": "www.fondazionemaxxi.it",
+                "sortOrder": 0
+            }, {
+                "featuredImage": {
+                    "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_crop.jpg",
+                    "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_crop.jpg",
+                    "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_crop.jpg.rend.500.500.jpg",
+                    "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_crop.jpg.rend.385.385.jpg",
+                    "primary": false
+                },
+                "mediaModuleImages": [{
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_crop.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_crop.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_crop.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_crop.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "caption": "\u003cp\u003eThis image includes the Eastman School of Music’s Italian Baroque Organ, the oldest and largest functioning organ in North America. Mini-recitals take place every Sunday at 1:00pm and 3:00pm (included with museum admission).\u003cbr\u003e\n \u003cbr\u003e\n \u003c/p\u003e\n",
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_organ_crop2.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_organ_crop2.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_organ_crop2.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_organ_crop2.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_unicornfam_crop.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_unicornfam_crop.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_unicornfam_crop.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_unicornfam_crop.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }, {
+                        "fileReference": "/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_snow_crop.jpg",
+                        "imagePathLarge": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_snow_crop.jpg",
+                        "imagePathMedium": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_snow_crop.jpg.rend.500.500.jpg",
+                        "imagePathSmall": "https://www.sothebys.com/content/dam/sothebys-preferred-pages/preferred-landing-pages/Museums/2017/rochester_mus_snow_crop.jpg.rend.385.385.jpg",
+                        "primary": false
+                    }],
+                "museumAddress": "\u003cp\u003e500 University Ave, Rochester, New York 14607\u003c/p\u003e\n",
+                "museumCity": "Rochester, New York",
+                "museumMapUrl": "https://goo.gl/maps/AFBwhUz2ErP2",
+                "museumName": "Memorial Art Gallery of the University of Rochester",
+                "museumOverview": "\u003cp\u003eThe Memorial Art Gallery of the University of Rochester presents a panorama of the world\u0027s art from over 5,000 years, from the relics of antiquity to works in the vanguard of contemporary movements. With the recent completion of Centennial Sculpture Park, the Gallery’s 14-acre campus is a spectacular urban space that is a destination for Rochesterians and visitors alike. The Gallery’s permanent collection of more than 12,000 objects has been called the best balanced in the state outside of metropolitan New York City. In addition to its collection, the Gallery offers a year-round schedule of temporary exhibitions, lectures, concerts, tours and family activities.\u003c/p\u003e\n",
+                "museumPhoneNumber": "+1 585 276 8900",
+                "museumRegion": "/data/dictionaries/locationRegions/north-america",
+                "museumWebsiteUrl": "http://mag.rochester.edu/",
+                "sortOrder": 0
+            }],
+        "programmes": [{
+                "description": "\u003cp style\u003d\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;\"\u003eWelcome to the Preferred Programme, a carefully curated suite of bespoke services and meaningful benefits designed to inspire and delight you, our most valued members of the Sotheby\u0027s community. On every part of the globe, elite Preferred privileges await, from complimentary access to the world\u0027s leading museums and exclusive previews of blockbuster exhibitions, to special offers and insider access to sought-after events. Let Sotheby\u0027s Preferred be your guide to extraordinary experiences around the world.\u003cspan class\u003d\"megamenu-locations\"\u003e\u003c/span\u003e\u003c/p\u003e\n",
+                "header": "Unique Benefits",
+                "sortOrder": 0
+            }]
+    },
+    "errors": [],
+    "message": "OK",
+    "processingTime": 100,
+    "statusCode": 200
+}
