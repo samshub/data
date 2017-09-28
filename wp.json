@@ -1,56 +1,5 @@
 [{
         "Action": "Update",
-        "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/hyperconverged-simplicity-verified.pdf",
-        "Author": "Dell Software",
-        "CampaingID": 17110,
-        "ID": 59229,
-        "IsActive": true,
-        "LandingPageImageURL": "",
-        "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/hyperconverged-simplicity-verified-59229",
-        "PublishDate": 1505919474447,
-        "ResearchTypeName": "White Paper",
-        "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/dell-vmware-logo.JPG",
-        "Summary": "Dell EMC VxRail, powered by Intel® Xeon® processors, is the only fully integrated VMware hyper-converged infrastructure appliance, delivering a turnkey solution that simplifies and extends VMware environments. Streamline IT infrastructure, gain new levels of speed and performance to enhance the end-user experience, and spend more time on innovation. Plus, Dell EMC VxRail is more than 30% lower total cost of ownership compared to a build-your-own solution. This report shows how you can:<ul>\u000d\u000a<li>Acheive super-fast deployment and scalability<\/li>\u000d\u000a<li>Take on enterprise workloads and deliver a smooth yet powerful user experience<\/li>\u000d\u000a<li>Keep peace of mind with accessibility and immediate issue alerts<\/li><\/ul>\u000d\u000aLearn more, read this brief but interesting infographic. \u000d\u000a",
-        "TaxonomyTopics": [
-            "Database and Management Solutions"
-        ],
-        "Title": "Hyper-Converged, Simplicity Verified "
-    }, {
-        "Action": "Update",
-        "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/lower-tco-with-hyperconverged_updated.pdf",
-        "Author": "Dell Software",
-        "CampaingID": 17110,
-        "ID": 59228,
-        "IsActive": true,
-        "LandingPageImageURL": "",
-        "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/lower-tco-with-hyperconverged-59228",
-        "PublishDate": 1505919467393,
-        "ResearchTypeName": "White Paper",
-        "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/dell-vmware-logo.JPG",
-        "Summary": "Dell EMC VxRail, powered by Intel® Xeon® processors, is the only fully integrated VMware hyper-converged infrastructure appliance, delivering a turnkey solution that simplifies and extends VMware environments. A few of the advantages include:<ul>\u000d\u000a<li>Deploy Dell EMC 4.6 times faster than build-your-own<\/li>\u000d\u000a<li>30% Lower TCO - Total cost of ownership compared to Build Your Own<\/li>\u000d\u000a<li>8.5% LOWER TCA - Total cost of acquisition compared to Build Your Own<\/li><\/ul>\u000d\u000a\u000d\u000a",
-        "TaxonomyTopics": [
-            "Hardware Servers and Data Centers"
-        ],
-        "Title": "Lower TCO with Hyper-Converged"
-    }, {
-        "Action": "Update",
-        "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/vxrail-470f-vs-hc-series-380-analyst-report.pdf",
-        "Author": "Dell Software",
-        "CampaingID": 17110,
-        "ID": 59227,
-        "IsActive": true,
-        "LandingPageImageURL": "",
-        "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/vxrail-470f-vs-hc-series-380-analyst-report-59227",
-        "PublishDate": 1505919169850,
-        "ResearchTypeName": "White Paper",
-        "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/dell-vmware-logo.JPG",
-        "Summary": "Databases are often the driving force behind a company’s\u000d\u000amission-critical work. They power online stores, confidential\u000d\u000arecords, and customer management systems, so a solution that\u000d\u000asustains high levels of database work can be a big advantage as\u000d\u000ayour company grows.<br><br>The Dell EMC VxRail P470F handled \u000d\u000aup to 50% more database work with up \u000d\u000ato 70% faster response times than the \u000d\u000aHPE Hyper Converged 380.<br><br>Empower your databases with strong,\u000d\u000aefficient, scalable performance. Download this analyst report to learn more.",
-        "TaxonomyTopics": [
-            "IT Infrastructure"
-        ],
-        "Title": "VxRail 470F vs HC Series 380 Analyst Report"
-    }, {
-        "Action": "Update",
         "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/adopting-cognitive-20170810.pdf",
         "Author": "IBM",
         "CampaingID": 24435,
