@@ -1,23 +1,338 @@
 [{
-        "Action": "Update",
-        "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/adopting-cognitive-20170810.pdf",
-        "Author": "IBM",
-        "CampaingID": 24435,
-        "ID": 57049,
-        "IsActive": true,
-        "LandingPageImageURL": "",
-        "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/adopting-cognitive-computing-to-unlock-value-for-sales-and-marketing-57049",
-        "PublishDate": 1503410201803,
-        "ResearchTypeName": "White Paper",
-        "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/ibm_logo_1000x380_blue.png",
-        "Summary": "Cognitive computing could be the solution CMOs and sales leaders have longed for, but are their organizations ready for it? View this whitepaper to learn about the potential value of Cognitive Computing in your marketing efforts.",
-        "TaxonomyTopics": [
-            "Big Data",
-            "Cloud",
-            "Information Management",
-            "Services",
-            "Social Marketing"
-        ],
-        "Title": "Adopting Cognitive Computing to Unlock Value for Sales and Marketing"
-    }
+  "Action": "Update",
+  "AssetURL": "https:\/\/gigaom.com\/event\/solving-business-challenges-with-mobile-device-customization\/?source=ZiffDavis",
+  "Author": "Gigaom",
+  "CampaingID": 20141,
+  "ID": 59640,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/solving-business-challenges-with-mobile-device-customization-59640",
+  "PublishDate": 1506447834490,
+  "ResearchTypeName": "Webcast",
+  "SponsorLogoImageURL": "",
+  "Summary": "Solving Business Challenges with Mobile Device Customization",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "Solving Business Challenges with Mobile Device Customization"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/www.csoonline.com\/article\/3226307\/security\/threat-intelligence-the-fuel-that-powers-cyber-defenses.html",
+  "Author": "ZD B2B A",
+  "CampaingID": 20807,
+  "ID": 59437,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/threat-intelligence-powering-cyber-defense-59437",
+  "PublishDate": 1506105181867,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/userimages.ittoolbox.com\/vendor\/6\/3\/2\/p_4143236.jpg",
+  "Summary": "Threat intelligence: Powering cyber defense",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "Threat intelligence: Powering cyber defense"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/SW_MSP_The_Cybersecurity_Blueprint_Whitepaper_EN_0817_FINAL_CM.pdf",
+  "Author": "SolarWinds",
+  "CampaingID": 16579,
+  "ID": 59431,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/the-cybersecurity-blueprint-a-fourpart-model-for-providing-comprehensive-layered-security-59431",
+  "PublishDate": 1506092308323,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/solarwinds_logo_fullcolor0101.png",
+  "Summary": "Cyberattacks have increased in both number and severity over the past few\u000d\u000ayears. The press has focused primarily on ransomware attacks. It makes\u000d\u000asense: some research has shown that ransomware will cost roughly $5 billion\u000d\u000aUSD in 2017 alone. To put that in context, that’s higher than the gross\u000d\u000adomestic product of many small countries and territories, like the US Virgin\u000d\u000aIslands, the Maldives, or Gambia.\u000d\u000a<br><br>\u000d\u000aThis paper presents a model for providing comprehensive layered security\u000d\u000ato managed services clients. By working within this framework, you can\u000d\u000asystematically approach each client’s network (or even your own) and know\u000d\u000awhat elements to put in place to provide strong layered security. You’ll also\u000d\u000ahave a good sense of where your employees need additional training and\u000d\u000awhat tools and processes they need to master.\u000d\u000a<br><br>\u000d\u000aDownload now to learn more.",
+  "TaxonomyTopics": [
+    "Security"
+  ],
+  "Title": "The Cybersecurity Blueprint: A Four-Part Model for Providing Comprehensive Layered Security"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/www.forbes.com\/sites\/blakemorgan\/2017\/09\/21\/customer-experience-is-not-shaped-by-customer-service\/",
+  "Author": "ZD B2B A",
+  "CampaingID": 20807,
+  "ID": 59348,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/your-entire-company-is-a-contact-center-59348",
+  "PublishDate": 1506021999477,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/userimages.ittoolbox.com\/vendor\/6\/3\/2\/p_4143236.jpg",
+  "Summary": "Your entire company is a contact center",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "Your entire company is a contact center"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/hyperconverged-simplicity-verified.pdf",
+  "Author": "Dell Software",
+  "CampaingID": 17110,
+  "ID": 59229,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/hyperconverged-simplicity-verified-59229",
+  "PublishDate": 1505919474447,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/dell-vmware-logo.JPG",
+  "Summary": "Dell EMC VxRail, powered by Intel® Xeon® processors, is the only fully integrated VMware hyper-converged infrastructure appliance, delivering a turnkey solution that simplifies and extends VMware environments. Streamline IT infrastructure, gain new levels of speed and performance to enhance the end-user experience, and spend more time on innovation. Plus, Dell EMC VxRail is more than 30% lower total cost of ownership compared to a build-your-own solution. This report shows how you can:<ul>\u000d\u000a<li>Acheive super-fast deployment and scalability<\/li>\u000d\u000a<li>Take on enterprise workloads and deliver a smooth yet powerful user experience<\/li>\u000d\u000a<li>Keep peace of mind with accessibility and immediate issue alerts<\/li><\/ul>\u000d\u000aLearn more, read this brief but interesting infographic. \u000d\u000a",
+  "TaxonomyTopics": [
+    "Database and Management Solutions"
+  ],
+  "Title": "Hyper-Converged, Simplicity Verified "
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/lower-tco-with-hyperconverged_updated.pdf",
+  "Author": "Dell Software",
+  "CampaingID": 17110,
+  "ID": 59228,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/lower-tco-with-hyperconverged-59228",
+  "PublishDate": 1505919467393,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/dell-vmware-logo.JPG",
+  "Summary": "Dell EMC VxRail, powered by Intel® Xeon® processors, is the only fully integrated VMware hyper-converged infrastructure appliance, delivering a turnkey solution that simplifies and extends VMware environments. A few of the advantages include:<ul>\u000d\u000a<li>Deploy Dell EMC 4.6 times faster than build-your-own<\/li>\u000d\u000a<li>30% Lower TCO - Total cost of ownership compared to Build Your Own<\/li>\u000d\u000a<li>8.5% LOWER TCA - Total cost of acquisition compared to Build Your Own<\/li><\/ul>\u000d\u000a\u000d\u000a",
+  "TaxonomyTopics": [
+    "Hardware Servers and Data Centers"
+  ],
+  "Title": "Lower TCO with Hyper-Converged"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/vxrail-470f-vs-hc-series-380-analyst-report.pdf",
+  "Author": "Dell Software",
+  "CampaingID": 17110,
+  "ID": 59227,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/vxrail-470f-vs-hc-series-380-analyst-report-59227",
+  "PublishDate": 1505919169850,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/dell-vmware-logo.JPG",
+  "Summary": "Databases are often the driving force behind a company’s\u000d\u000amission-critical work. They power online stores, confidential\u000d\u000arecords, and customer management systems, so a solution that\u000d\u000asustains high levels of database work can be a big advantage as\u000d\u000ayour company grows.<br><br>The Dell EMC VxRail P470F handled \u000d\u000aup to 50% more database work with up \u000d\u000ato 70% faster response times than the \u000d\u000aHPE Hyper Converged 380.<br><br>Empower your databases with strong,\u000d\u000aefficient, scalable performance. Download this analyst report to learn more.",
+  "TaxonomyTopics": [
+    "IT Infrastructure"
+  ],
+  "Title": "VxRail 470F vs HC Series 380 Analyst Report"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/tco-study_dell-emc-vxrail-vs",
+  "Author": "Dell Software",
+  "CampaingID": 17110,
+  "ID": 59226,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/tco-study-dell-emc-vxrail-vs-diy-hci-using-vsan-readynodes-configuration-59226",
+  "PublishDate": 1505919034807,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/dell-vmware-logo.JPG",
+  "Summary": "Over the last decade, converged infrastructure (CI) solutions have been used to implement virtualized infrastructure over a three-tier configuration that is packaged, sold and supported as a single entity. In place of three separate vendors supplying and supporting the three tiers, with CI, customers gain faster ordering, less problem-prone deployment and less administrator burden.<br><br>With the advent of software-defined storage, vendors began offering HCI, which collapses two of the three tiers in the CI offering above.<br><br>This paper discusses the Dell EMC VxRail HCI product family, along with hardware and software that can be purchased as DIY or standalone solutions. This paper then discusses a recent TCO study that compares these two solutions",
+  "TaxonomyTopics": [
+    "IT Infrastructure"
+  ],
+  "Title": "TCO Study: Dell EMC VxRail vs. DIY HCI using vSAN Readynodes Configuration"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/the-cost-of-using-the-public-cloud.pdf",
+  "Author": "Dell Software",
+  "CampaingID": 17110,
+  "ID": 59225,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/the-cost-of-using-the-public-cloud-tco-aws-vs-vxrail-59225",
+  "PublishDate": 1505917685290,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/dell-vmware-logo.JPG",
+  "Summary": "For many companies, the appeal of the public cloud is very real. For tech startups, the cloud may be their only option, since many don’t have the capital or expertise to build and operate the IT systems their businesses need. Existing companies with established data centers are also looking at public clouds to increase IT agility while limiting risk. The idea of building-out their production capacity while possibly reducing the costs attached to that infrastructure can be attractive. For most companies the cloud isn’t an “either-or” decision, but an operating model to be evaluated along with on-site infrastructure. And, like most infrastructure decisions, the question of cost is certainly a consideration.<br><br>In this report we’ll explore that question, compare the costs of an on-site hyperconverged solution with a comparable set up on the cloud. The on-site infrastructure is a Dell EMC VxRail&trade; hyperconverged appliance cluster and the cloud solution is Amazon Web Services (AWS).<br><br>Download now to learn more.",
+  "TaxonomyTopics": [
+    "Cloud"
+  ],
+  "Title": "The Cost of Using the Public Cloud: TCO AWS vs VxRail"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/www.theinquirer.net\/inquirer\/news\/3017545\/2017-has-had-more-mobile-vulnerabilities-than-the-whole-of-2016-already",
+  "Author": "ZD B2B A",
+  "CampaingID": 20807,
+  "ID": 59174,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/this-years-mobile-threats-eclipse-last-years-59174",
+  "PublishDate": 1505853421157,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/userimages.ittoolbox.com\/vendor\/6\/3\/2\/p_4143236.jpg",
+  "Summary": "This year’s mobile threats eclipse last year’s",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "This year’s mobile threats eclipse last year’s"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/www.entrepreneur.com\/article\/299335",
+  "Author": "ZD B2B A",
+  "CampaingID": 20807,
+  "ID": 59173,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/10-strategies-to-fuel-growth-59173",
+  "PublishDate": 1505853397900,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/userimages.ittoolbox.com\/vendor\/6\/3\/2\/p_4143236.jpg",
+  "Summary": "10 Strategies to Fuel Growth",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "10 Strategies to Fuel Growth"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/www.entrepreneur.com\/article\/296596",
+  "Author": "ZD B2B A",
+  "CampaingID": 20807,
+  "ID": 59172,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/propelling-explosive-business-growth-59172",
+  "PublishDate": 1505853380370,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/userimages.ittoolbox.com\/vendor\/6\/3\/2\/p_4143236.jpg",
+  "Summary": "Propelling explosive business growth",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "Propelling explosive business growth"
+}, {
+  "Action": "Update",
+  "AssetURL": "",
+  "Author": "Ziff Davis",
+  "CampaingID": 25733,
+  "ID": 59131,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/mobile-app-vulnerability-and-penetration-testing-best-practices-59131",
+  "PublishDate": 1505823958493,
+  "ResearchTypeName": "Webcast",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/ziffdavis.jpg",
+  "Summary": "As mobile apps become mainstream in the enterprise, so are the vulnerabilities associated with their code and implementation. Even with their growing importance, mobile apps are often not evaluated for security flaws in the proper ways. Even when they are, the necessary resources are often not provided to see things through. After all, a common view is “It’s just a mobile app”. In this webinar, independent information consultant, application security expert, and writer of 12 security books including Hacking For Dummies, Kevin Beaver, will share with you some wisdom for uncovering security vulnerabilities in mobile apps. Kevin will share methodologies, tools, and tricks he has found to be best for finding the flaws that matter along with tips on filtering out the unnecessary noise so you can focus on testing – and fixing – what matters.",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "Mobile App Vulnerability and Penetration Testing Best Practices"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/UPS Smart Operations 082517.pdf",
+  "Author": "UPS",
+  "CampaingID": 24816,
+  "ID": 59107,
+  "IsActive": true,
+  "LandingPageImageURL": "https:\/\/b2b-hosteddocs.s3.amazonaws.com\/upssmartops.png",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/smarter-operations-the-value-chains-vital-role-in-digital-evolution-59107",
+  "PublishDate": 1505815493580,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/upssmalllogo.jpg",
+  "Summary": "<br><br>\u000d\u000aThe digital transformation for manufacturers can be daunting. Modern operations need to be smart and they need to extend down the entire value chain for optimal benefit. But roughly half of manufacturers surveyed feel their movement to such modern operations has stalled and lags behind the competition.\u000d\u000a<br><br>\u000d\u000aIf you are a manufacturer currently in this boat, read this whitepaper now on how to rev the engines of your digital 'smart' transformation, through utilizing the entire value chain. ",
+  "TaxonomyTopics": [
+    "Big Data",
+    "Cloud",
+    "E-Commerce",
+    "Enterprise Resource Planning",
+    "General",
+    "IT Infrastructure",
+    "Information Management",
+    "Infrastructure as a Service (IaaS)"
+  ],
+  "Title": "Smarter Operations: The Value Chain’s Vital Role in Digital Evolution"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__wcc.on24.com_webcast_previewlobby-3Fe-3D1480499-26k-3D0561896A6AA18DCC2A9D7EC0D53A5B42&d=DwMFAw&c=N-xPqDyeLJg5V3gLll2thA&r=Br8WFuYwQA9RYswL08TQUa-o",
+  "Author": "IBM",
+  "CampaingID": 18547,
+  "ID": 59078,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/on-demand-webcast-combat-rising-cloud-costs-with-cognitive-insights-from-tbr-59078",
+  "PublishDate": 1505748760447,
+  "ResearchTypeName": "On-Demand Webcast",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/ibm_logo_1000x380_blue.png",
+  "Summary": "Your cloud costs are rising every month – but do you know if it’s driving business initiatives or money going down the drain? <br><br>With the dynamic nature of cloud, you need a quick way to gain cost transparency, establish governance, and optimize IT spend across your hybrid cloud. <br><br>Learn how IT and Finance can get a real-time view of hybrid cloud spend and IT resources to take action today for cost savings – and with cloud brokerage and cognitive capabilities, extend governance during digital transformation. ",
+  "TaxonomyTopics": [
+    "Cloud",
+    "General",
+    "IT Infrastructure",
+    "Platform as a Service (PaaS)",
+    "Services",
+    "Storage",
+    "Virtualization"
+  ],
+  "Title": "On Demand Webcast: ‘Combat Rising Cloud Costs with Cognitive Insights from TBR’"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hbr.org\/2017\/09\/only-3-of-companies-data-meets-basic-quality-standards",
+  "Author": "ZD B2B A",
+  "CampaingID": 20807,
+  "ID": 59002,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/only-3-of-data-meets-quality-standards-59002",
+  "PublishDate": 1505508317630,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/userimages.ittoolbox.com\/vendor\/6\/3\/2\/p_4143236.jpg",
+  "Summary": "Only 3% of Data Meets Quality Standards",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "Only 3% of Data Meets Quality Standards"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/www.forbes.com\/sites\/leemathews\/2017\/08\/31\/massive-ransomware-attack-unleashes-23-million-emails-in-24-hours\/#1df3b7a0394b",
+  "Author": "ZD B2B A",
+  "CampaingID": 20807,
+  "ID": 58999,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/massive-ransomware-attack-unleashes-23-million-emails-in-24-hours-58999",
+  "PublishDate": 1505503275750,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/userimages.ittoolbox.com\/vendor\/6\/3\/2\/p_4143236.jpg",
+  "Summary": "Massive Ransomware Attack Unleashes 23 Million Emails In 24 Hours",
+  "TaxonomyTopics": [
+    
+  ],
+  "Title": "Massive Ransomware Attack Unleashes 23 Million Emails In 24 Hours"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/www.jmp.com\/en_us\/events\/ondemand\/technically-speaking\/improving-your-process-with-statistical-models\/watch.html",
+  "Author": "JMP",
+  "CampaingID": 21182,
+  "ID": 58985,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/improving-your-process-with-statistical-models-webcast-58985",
+  "PublishDate": 1505486277707,
+  "ResearchTypeName": "Webcast",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/jmplogo.png",
+  "Summary": "Finding workable solutions – whether in research, development, manufacturing, sales or marketing – from prior data is sometimes difficult due to the complex, noisy relationships between many variables that are difficult or impossible to easily spot. Learn how to solve more scientific, engineering and business problems correctly the first time – and in less time – by extracting powerful insights from existing data using proven, simple statistical modeling methods.\u000d\u000a\u000d\u000a <br><br>\u000d\u000a\u000d\u000aIn this case study, a pharmaceutical manufacturer seeks process improvement in the midst of an alarming number of batch failures and a high degree of variability in the natural materials used in the manufacturing process. You will walk away knowing:\u000d\u000a <br><br>\u000d\u000a· When to use statistical modeling.\u000d\u000a <br><br>\u000d\u000a· Why and how to build an appropriate model.\u000d\u000a <br><br>\u000d\u000a· How to extract information from the models to communicate your findings with others.",
+  "TaxonomyTopics": [
+    "Big Data"
+  ],
+  "Title": "Improving Your Process with Statistical Models Webcast"
+}, {
+  "Action": "Update",
+  "AssetURL": "https:\/\/hosteddocs.ittoolbox.com\/jmpDOE.pdf",
+  "Author": "JMP",
+  "CampaingID": 21182,
+  "ID": 58984,
+  "IsActive": true,
+  "LandingPageImageURL": "",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/optimizing-processes-with-design-of-experiments-58984",
+  "PublishDate": 1505486050140,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/hosteddocs.ittoolbox.com\/logos\/jmplogo.png",
+  "Summary": "Design of experiments, or DOE, offers a practical approach for exploring multifactor opportunity spaces. By actively manipulating factors according to a pre-specified design, you efficiently gain useful new understanding – even when you lack all the data needed to solve a problem.\u000d\u000a<br><br>\u000d\u000aThis paper includes real-world case studies that describe how two organizations discovered best practices for collecting and analyzing new, relevant data simply and quickly. It is recommended reading if:\u000d\u000a<br><br>\u000d\u000a· You need an efficient way to determine which process changes will yield the greatest gains.\u000d\u000a<br><br>\u000d\u000a· Your organization has outgrown one-factor-at-a-time experimentation.\u000d\u000a<br><br>\u000d\u000a· In the rush to get answers, you are sometimes forced to cut corners, limiting your understanding of the real drivers of process robustness, effectiveness and efficiency.\u000d\u000a<br><br>\u000d\u000a· The time devoted to attempts at problem-solving curtails opportunities for innovation and process improvement.",
+  "TaxonomyTopics": [
+    "Big Data"
+  ],
+  "Title": "Optimizing Processes with Design of Experiments"
+}
 ]
