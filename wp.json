@@ -1,19 +1,19 @@
 [{
   "Action": "Update",
-  "AssetURL": "https:\/\/gigaom.com\/event\/solving-business-challenges-with-mobile-device-customization\/?source=ZiffDavis",
-  "Author": "Gigaom",
-  "CampaingID": 20141,
-  "ID": 59640,
+  "AssetURL": "https:\/\/www.csoonline.com\/article\/3226307\/security\/threat-intelligence-the-fuel-that-powers-cyber-defenses.html",
+  "Author": "ZD B2B A",
+  "CampaingID": 20807,
+  "ID": 59437,
   "IsActive": true,
   "LandingPageImageURL": "",
-  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/solving-business-challenges-with-mobile-device-customization-59640",
-  "PublishDate": 1506447834490,
-  "ResearchTypeName": "Webcast",
-  "SponsorLogoImageURL": "",
-  "Summary": "Solving Business Challenges with Mobile Device Customization",
+  "LandingPageURL": "http:\/\/www.itmanagement.com\/research\/threat-intelligence-powering-cyber-defense-59437",
+  "PublishDate": 1506105181867,
+  "ResearchTypeName": "White Paper",
+  "SponsorLogoImageURL": "https:\/\/userimages.ittoolbox.com\/vendor\/6\/3\/2\/p_4143236.jpg",
+  "Summary": "Threat intelligence: Powering cyber defense",
   "TaxonomyTopics": [
     
   ],
-  "Title": "Solving Business Challenges with Mobile Device Customization"
+  "Title": "Threat intelligence: Powering cyber defense"
 }
 ]
