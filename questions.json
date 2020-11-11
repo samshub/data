@@ -1,0 +1,130 @@
+{
+    "title" : "Sample Quiz",
+    "questions" : [
+        {
+            "question": "An amusement park has a collection of scale models, with ratio $1 : 20$, of buildings and other sights from around the country. The height of the United States Capitol is 289 feet. What is the height in feet of its replica to the nearest whole number?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "answer": "14"
+                },
+                {
+                    "choice": "B",
+                    "answer": "15"
+                },
+                {
+                    "choice": "C",
+                    "answer": "16"
+                },
+                {
+                    "choice": "D",
+                    "answer": "18"
+                },
+                {
+                    "choice": "E",
+                    "answer": "20"
+                }
+            ]
+        },
+        {
+            "question": "Students Arn, Bob, Cyd, Dan, Eve, and Fon are arranged in that order in a circle. They start counting: Arn first, then Bob, and so forth. When the number contains a 7 as a digit (such as 47) or is a multiple of 7 that person leaves the circle and the counting continues. Who is the last one present in the circle?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "answer": "Arn"
+                },
+                {
+                    "choice": "B",
+                    "answer": "Bob"
+                },
+                {
+                    "choice": "C",
+                    "answer": "Cyd"
+                },
+                {
+                    "choice": "D",
+                    "answer": "Dan"
+                },
+                {
+                    "choice": "E",
+                    "answer": "Eve"
+                }
+            ]
+        },
+        {
+            "question": "What is the value of 1 + 3 + 5 + ... + 2017 + 2019 - 2 - 4 - 6 - ... - 2016 - 2018? ",
+            "answers": [
+                {
+                    "choice": "A",
+                    "answer": "-1010"
+                },
+                {
+                    "choice": "B",
+                    "answer": "-1009"
+                },
+                {
+                    "choice": "C",
+                    "answer": "1008"
+                },
+                {
+                    "choice": "D",
+                    "answer": "1009"
+                },
+                {
+                    "choice": "E",
+                    "answer": "1010"
+                }
+            ]
+        },
+        {
+            "question": "On a trip to the beach, Anh traveled 50 miles on the highway and 10 miles on a coastal access road. He drove three times as fast on the highway as on the coastal road. If Anh spent 30 minutes driving on the coastal road, how many minutes did his entire trip take? ",
+            "answers": [
+                {
+                    "choice": "A",
+                    "answer": "50"
+                },
+                {
+                    "choice": "B",
+                    "answer": "70"
+                },
+                {
+                    "choice": "C",
+                    "answer": "80"
+                },
+                {
+                    "choice": "D",
+                    "answer": "90"
+                },
+                {
+                    "choice": "E",
+                    "answer": "100"
+                }
+            ]
+        },
+        {
+            "question": "The 5-digit number  2 0 1 8 X is divisible by 9. What is the remainder when this number is divided by 8",
+            "answers": [
+                {
+                    "choice": "A",
+                    "answer": "1"
+                },
+                {
+                    "choice": "B",
+                    "answer": "3"
+                },
+                {
+                    "choice": "C",
+                    "answer": "5"
+                },
+                {
+                    "choice": "D",
+                    "answer": "6"
+                },
+                {
+                    "choice": "E",
+                    "answer": "7"
+                }
+            ]
+        }
+    ]
+}
